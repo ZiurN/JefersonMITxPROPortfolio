@@ -1,7 +1,6 @@
 {
-  "name": "JestExercise",
+  "name": "jestexercise",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -11,5 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^27.1.0"
-  }
+  },
+  "dependencies": {},
+  "description": ""
 }
